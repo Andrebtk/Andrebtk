@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andre Bertok 👋</h1>
-<h3 align="center">Student at Sorbonne University</h3>
+<h3 align="center">Student at Sorbonne University, Paris</h3>
 
 <br>
 
