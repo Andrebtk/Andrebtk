@@ -10,7 +10,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 📚 I’m currently learning Qiskit <img src="https://github.com/Andrebtk/Andrebtk/assets/53980377/491d109f-c065-41f7-af99-26f0f65fd248" height="16" width="16"> and automating web scraping
+- 📚 I’m currently learning Qiskit <!-- <img src="https://github.com/Andrebtk/Andrebtk/assets/53980377/491d109f-c065-41f7-af99-26f0f65fd248" height="16" width="16"> --> and automating web scraping
 
 - 📫 How to reach me **andre.bertok@etu.sorbonne-universite.fr**
 
