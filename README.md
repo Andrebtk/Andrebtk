@@ -13,7 +13,7 @@
  <!-- - 📚 I’m currently learning Qiskit<img src="https://github.com/Andrebtk/Andrebtk/assets/53980377/491d109f-c065-41f7-af99-26f0f65fd248" height="16" width="16">  and  C-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrebtk)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![](https://komarev.com/ghpvc/?username=Andrebtk) -->
+![](https://komarev.com/ghpvc/?username=Andrebtk)
 - 📫 How to reach me **andre.bertok@etu.sorbonne-universite.fr**
 
 
