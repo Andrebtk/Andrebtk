@@ -6,12 +6,7 @@
 
 
 
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
  <!-- - 📚 I’m currently learning Qiskit<img src="https://github.com/Andrebtk/Andrebtk/assets/53980377/491d109f-c065-41f7-af99-26f0f65fd248" height="16" width="16">  and  C-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrebtk)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Andrebtk)
 - 📫 How to reach me **andre.bertok@etu.sorbonne-universite.fr**
@@ -22,7 +17,3 @@
 
 
 <h3>Statistical Data : </h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrebtk&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
